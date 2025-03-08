@@ -19,17 +19,16 @@ Matplotlib & Seaborn (for visualization and graphical representation)
 Jupyter Notebook (for interactive exploration of data)
 **How to Use This Project**
 1. Clone the Repository
-sh
-git clone https://github.com/kotipallisaiteja/Mynta-Data-Analysis.git
+**git clone https://github.com/kotipallisaiteja/Mynta-Data-Analysis.git**
 2. Navigate to the Project Folder
-sh
-cd Mynta-Data-Analysis
+
+**cd Mynta-Data-Analysis**
 3. Install Required Dependencies
-sh
-pip install pandas numpy matplotlib seaborn
+
+**pip install pandas numpy matplotlib seaborn**
 4. Run the Jupyter Notebook
-sh
-jupyter notebook
+
+**jupyter notebook**
 Open the .ipynb file in Jupyter Notebook to start analyzing the dataset.
 
 **Visual Representations**

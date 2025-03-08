@@ -20,15 +20,16 @@ Jupyter Notebook (for interactive exploration of data)
 **How to Use This Project**
 1. Clone the Repository
 **git clone https://github.com/kotipallisaiteja/Mynta-Data-Analysis.git**
+
 2. Navigate to the Project Folder
-
 **cd Mynta-Data-Analysis**
+
 3. Install Required Dependencies
-
 **pip install pandas numpy matplotlib seaborn**
-4. Run the Jupyter Notebook
 
+4. Run the Jupyter Notebook
 **jupyter notebook**
+
 Open the .ipynb file in Jupyter Notebook to start analyzing the dataset.
 
 **Visual Representations**

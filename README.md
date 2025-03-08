@@ -39,5 +39,6 @@ Bar Charts: Showcasing brand popularity.
 Pie Charts: Illustrating product category distribution.
 Line Graphs: Depicting pricing trends over time.
 Heatmaps: Analyzing correlations between different product attributes.
+
 **Contributions & Feedback**
 We welcome contributions! If you’d like to improve this analysis, feel free to fork the repository, raise an issue, or submit a pull request.
